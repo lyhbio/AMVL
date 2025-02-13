@@ -1,4 +1,4 @@
-# AMVL: A Multi-View Learning Method for Enhanced Drug Repurposing Using CTPs, Knowledge Graph, and LLM
+# Adaptive Multi-View Learning Method for Enhanced Drug Repurposing Using Chemical-induced Transcriptional Profiles, Knowledge Graph, and Large Language Models
 
 This repository contains the code, datasets, and resources for the project **AMVL**, which integrates multi-view learning approaches with transcriptomic profiles, knowledge graphs, and large language models to improve drug repositioning predictions.
 
