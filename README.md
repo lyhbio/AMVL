@@ -1,5 +1,22 @@
-# Adaptive Multi-View Learning Method for Enhanced Drug Repurposing Using Chemical-induced Transcriptional Profiles, Knowledge Graph, and Large Language Models
+# Adaptive multi-view learning (AMVL) method for enhanced drug repurposing using chemical-induced transcriptional profiles, knowledge graphs, and large language models
+## Citation
+If you use this method or code in your research, please cite the following paper:
 
+Yudong Yan<sup>#</sup>, Yinqi Yang<sup>#</sup>, Zhuohao Tong, Yu Wang, Fan Yang, Zupeng Pan, Chuan Liu, Mingze Bai, Yongfang Xie, Yuefei Li<sup>\*</sup>, Kunxian Shu<sup>\*</sup>, Yinghong Li<sup>\*</sup>. [Adaptive multi-view learning method for enhanced drug repurposing using chemical-induced transcriptional profiles, knowledge graphs, and large language models](https://www.sciencedirect.com/science/article/pii/S2095177925000929). Journal of Pharmaceutical Analysis. 101275 (2025).
+https://doi.org/10.1016/j.jpha.2025.101275
+
+**BibTeX:**
+```bibtex
+@article{Yan2025,
+  author = {Yan, Yudong and Yang, Yinqi and Tong, Zhuohao and Wang, Yu and Yang, Fan and Pan, Zupeng and Liu, Chuan and Bai, Mingze and Xie, Yongfang and Li, Yuefei and Li, Yinghong and Shu, Kunxian},
+  title = {Adaptive multi-view learning method for enhanced drug repurposing using chemical-induced transcriptional profiles, knowledge graphs, and large language models},
+  journal = {Journal of Pharmaceutical Analysis},
+  year = {2025},
+  pages = {101275},
+  doi = {10.1016/j.jpha.2025.101275},
+  month = mar,
+}
+```
 This repository contains the code, datasets, and resources for the project **AMVL**, which integrates multi-view learning approaches with transcriptomic profiles, knowledge graphs, and large language models to improve drug repositioning predictions.
 
 ![overflow](img/overflow.png)
